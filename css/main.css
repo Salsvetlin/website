@@ -1,0 +1,16 @@
+.title-author {
+    font-family: Comfortaa;
+    font-size: 12px;
+    font-weight: bold;
+    color: #656565;
+    text-transform: uppercase;
+}
+.author-info {
+    font-family: Comfortaa;
+    font-size: 10px;
+    color: #656565;
+}
+.header-logo {
+    width: 16px;
+    height: 16px;
+}
